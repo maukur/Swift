@@ -29,6 +29,7 @@ Ball *ball = [[[[Ball alloc] init] autorelease] autorelease];
   /* Another implementation */
   return YES;
 }
+```
 
 ## Что выведется в консоль?
 ```objectivec
